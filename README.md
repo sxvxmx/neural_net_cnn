@@ -1,4 +1,4 @@
-some loss plot  
+some loss plot of my model 
 
 ![image](https://github.com/sxvxmx/neural_net_cnn/assets/115085796/7dcc3d9b-503b-496c-b31b-1c6639a5eca5)  
 
